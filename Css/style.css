@@ -1,0 +1,60 @@
+table {
+    height: 94%;
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    overflow: scroll;
+}
+
+th {
+    height: 50px;
+    color: white;
+    background: #343A40;
+}
+
+.headerlink {
+    color: white;
+}
+
+.headerlink:hover {
+    color: white;
+    text-decoration: underline;
+}
+tr {
+    border-bottom: solid black 1px;
+}
+
+body {
+    text-align: center;
+}
+
+input {
+    width: 200px;
+}
+
+.center {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -250px;
+    background: white;
+    text-align: center;
+}
+
+.error {
+    color: white;
+    background: red;
+    width: 30%;
+    margin: 3px auto;
+}
+
+.centerErrors {
+    width: 100%;
+}
+
+label {
+    color: black;
+}
