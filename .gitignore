@@ -2,8 +2,4 @@
 .gitignore/
 
 node_modules
-.idea/.gitignore
-.idea/Restaurant.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+
