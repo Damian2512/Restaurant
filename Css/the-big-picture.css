@@ -1,11 +1,5 @@
-/*!
- * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
- */
-
 body {
-  background: url('http://www.amifood.be/wp-content/uploads/2017/04/image-6.jpg') no-repeat center center fixed;
+background-image: url("../images/background.jpg") ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
